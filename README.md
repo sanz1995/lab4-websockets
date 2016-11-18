@@ -6,7 +6,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 -------|-----------|------|--------------|-------------|--------
 647002 | AGUILAR REQUENA, EDUARDO 
 666156 | BAREA LÓPEZ, DANIEL 
-666179 | BARRIOS GIL, ÁLVARO 
+666179 | BARRIOS GIL, ÁLVARO | 666179 | [test repo](https://github.com/deerter/lab4-websockets/tree/test) |[![Build Status](https://travis-ci.org/deerter/lab4-websockets.svg?branch=test)](https://travis-ci.org/deerter/lab4-websockets) 
 612595 | BELTRÁN PIÑOL, VÍCTOR 
 683326 | BINTANED BASA, JESÚS 
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
