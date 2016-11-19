@@ -15,7 +15,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680669 | GUIU PÉREZ, ALEJANDRO 
 682531 | JUAN CIRIACO, ÁLVARO 
-544393 | LAHOZ EGEA, CRISTINA 
+544393 | LAHOZ EGEA, CRISTINA  | [test repo](https://github.com/cristinalahoz/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/cristinalahoz/lab4-websockets.svg?branch=test)](https://travis-ci.org/cristinalahoz/lab4-websockets)
 622612 | MARTIN SEGURA, SERGIO  
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO 
 576307 | MARTÍNEZ PÉREZ, ADRIAN 
