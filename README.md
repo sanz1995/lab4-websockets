@@ -25,7 +25,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 650448 | MURILLO MAGDALENA, JAVIER 
 453948 | NAVARRO CLARAS, MARIO 
 647973 | PERALTA MARTÍNEZ, SANTIAGO 
-683546 | PÉREZ CANCER, BEATRIZ 
+683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/beapc18/lab4-websockets.svg?branch=test)](https://travis-ci.org/beapc18/lab4-websockets)
 686329 | ROIG JIMENEZ, ANA
 559207 | RUEDA MACÍAS, DANIEL 
 610344 | SALUEÑA SEDILES, ASIER 
