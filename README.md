@@ -32,5 +32,5 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 680182 | SANZ ALCAINE, JORGE 
 534521 | SANZ VIDAL, AITOR | [test repo](https://github.com/aitorsanz/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/aitorsanz/lab4-websockets.svg?branch=test)](https://travis-ci.org/aitorsanz/lab4-websockets)
 618051 | TOLON MARTÍN, CARLOS JAVIER | [test repo](https://github.com/ctolon22/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/ctolon22/lab4-websockets.svg?branch=test)](https://travis-ci.org/ctolon22/lab4-websockets) | |
-643821 | VELA GARCÍA, JUAN 
+643821 | VELA GARCÍA, JUAN  | [test repo](https://github.com/juan-vg/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/juan-vg/lab4-websockets.svg?branch=test)](https://travis-ci.org/juan-vg/lab4-websockets)
 679609 | VIÑUALES SÁNCHEZ, PABLO | [test repo](https://github.com/strummerTFIU/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/strummerTFIU/lab4-websockets.svg?branch=test)](https://github.com/strummerTFIU/lab4-websockets)
